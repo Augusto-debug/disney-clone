@@ -114,7 +114,7 @@ const UserImg = styled.div`
   img {
     height: 60px;
     border-radius: 50%;
-    margin-right: 15px;
+    margin-right: 30px;
     cursor: pointer;
   }
 `;
